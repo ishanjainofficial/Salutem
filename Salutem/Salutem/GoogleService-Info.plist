@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>53356690086-7hu8odsfe2aousi699plll2mml51h759.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.53356690086-7hu8odsfe2aousi699plll2mml51h759</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBKepNdBWYajUkxFhH9rKIgaVOjJ3tMX5M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>53356690086</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Home.Salutem</string>
+	<key>PROJECT_ID</key>
+	<string>salutem-1b1c4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>salutem-1b1c4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:53356690086:ios:4826d5293ffbb2bb949267</string>
+	<key>DATABASE_URL</key>
+	<string>https://salutem-1b1c4.firebaseio.com</string>
+</dict>
+</plist>
